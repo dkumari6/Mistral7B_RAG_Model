@@ -4,7 +4,7 @@ This repository contains an implementation of a Retrieval-Augmented Generation (
 
 ## Repository Location
 
-`git@github.com:prav2909/Biographer_Mistral7BRAG.git`
+`https://github.com/dkumari6/Mistral7B_RAG_Model.git`
 
 ## Contents
 
@@ -22,8 +22,8 @@ This repository contains an implementation of a Retrieval-Augmented Generation (
 1.  **Clone the repository:**
 
     ```bash
-    git clone git@github.com:prav2909/Biographer_Mistral7BRAG.git
-    cd Biographer_Mistral7BRAG
+    git clone https://github.com/dkumari6/Mistral7B_RAG_Model.git
+    cd Mistral7B_RAG_Model
     ```
 
 2.  **Install dependencies:**
